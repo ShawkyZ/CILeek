@@ -9,3 +9,4 @@ In case you need one you can get it from registering here https://travis-ci.org/
 
 ## Usage:
 `python CILeek.py -token 'mytoken' -org 'myorg'`
+Since we didn't provide a -dir argument all logs files will be saved in current directory.
