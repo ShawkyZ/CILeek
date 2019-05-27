@@ -8,4 +8,4 @@ In case you need one you can get it from registering here https://travis-ci.org/
 2. python requests module (pip install requests)
 
 ## Usage:
-python CILeek.py -token 'mytoken' -org 'myorg'
+`python CILeek.py -token 'mytoken' -org 'myorg'`
