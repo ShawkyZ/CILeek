@@ -12,6 +12,8 @@ In case you need one you can get it from registering here https://travis-ci.org/
 
 Since we didn't provide a -dir argument all logs files will be saved in current directory.
 
+## TODO:
+* Get Logs from Gitlab CLI and CircleCI
 
 ## Credits
 Thanks to @EdOverflow for the Awesome writeup and idea 
