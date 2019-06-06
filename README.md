@@ -5,7 +5,7 @@ In case you need one you can get it from registering here https://travis-ci.org/
 
 ## Prerequisites:
 1. Python 2.7
-2. python requests module (pip install requests)
+2. python requests module `pip install requests`
 
 ## Usage:
 `python CILeek.py -token 'mytoken' -org 'myorg'`
